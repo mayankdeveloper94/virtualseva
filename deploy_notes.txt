@@ -1,0 +1,1 @@
+Remove root@localhost in store procedure creation in sql file when exporting from phpmyadmin
